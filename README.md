@@ -1,0 +1,2 @@
+# shixu
+Chinese poetry generator
